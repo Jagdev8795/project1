@@ -1,0 +1,80 @@
+.main{
+}
+.main1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;  
+    text-decoration-style: solid ;
+}
+.margin{
+    margin-left:90px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+}
+.main2{
+    display: flex;
+    flex-direction: row;
+
+
+}
+.ditels{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    fon
+}
+button{
+    width:100px;
+    margin-top: 30px;
+}
+.main3{
+    display: flex;
+    flex-direction:row;
+    width: 100%;
+
+    
+}
+.box1{
+    display: flex;
+   height: 50%; width: 16%;
+   margin-right: 5px;
+   
+}.box2{
+    display: flex;
+   height: 50%; width: 16%;
+   margin-right: 5px;
+}.box3{
+    display: flex;
+   height: 50%; width: 16%;
+   margin-right: 5px;
+}.box4{
+    display: flex;
+   height: 50%; width: 16%;
+   margin-right: 5px; ;
+}
+.box5{
+    display: flex;
+   height: 50%; width: 16%;
+   margin-right: 5px;
+}
+.main4{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.box7{
+    display: flex;
+   height: 50%; width: 16%;
+   margin-right: 5px;
+}
+.main5{
+
+}
+.last{
+   text-align: center;
+
+}
